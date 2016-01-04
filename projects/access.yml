@@ -5,10 +5,10 @@ github_teams: [access]
 google_groups: [accessguru]
 members:
 - adolf.hillfiger
-- adam.kowalski
 - external/vito.corleone
 - external/ingmar.bergman
-- external/tony.montana
+- external/steve.jobs
+- olena.stukanova
 project_email: accessguru-team@netguru.pl
 rollbar_teams: [access_rollbar]
 slack_client_channel_name: project-access
