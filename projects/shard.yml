@@ -5,7 +5,7 @@ google_groups: [shard_group]
 members:
 - andrzej.tg
 - andy.faro
-- tony.montana
+- tony.mota
 people_project_name:
 project_email:
 rollbar_teams: [shard_bill]
