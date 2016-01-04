@@ -7,6 +7,7 @@ members:
 - external/barack.obama
 - external/john.doe
 - wolfgang.a.mozart
+- xavery.branicki
 people_project_name:
 project_email:
 rollbar_teams: [das_experiment_rb]
