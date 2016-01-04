@@ -2,7 +2,7 @@
 display_name: The Shard
 github_teams: [shard]
 google_groups: [shard_group]
-members: [andrzej.tag, michal.puzon, andy.fargo]
+members: [andrzej.tag, andy.fargo]
 people_project_name:
 project_email:
 rollbar_teams: [shard_bill]
