@@ -8,7 +8,7 @@ name:
   required: true
   value_type: string
 permission:
-  default_value:
+  default_value: pull
   required: true
   value_type: string
 repos:
