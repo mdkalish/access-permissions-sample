@@ -2,7 +2,9 @@
 display_name: AirNugget
 github_teams: [client/airnugget]
 google_groups: [airnugget]
-members: [external/amir.nadal]
+members:
+- external/amir.nadal
+- external/dan.keegan
 people_project_name:
 project_email:
 rollbar_teams: [airnugget]
