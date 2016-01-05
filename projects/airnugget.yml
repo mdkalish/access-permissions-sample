@@ -1,0 +1,10 @@
+---
+display_name: AirNugget
+github_teams: [client/airnugget]
+google_groups: [airnugget]
+members: [external/amir.nadal]
+people_project_name:
+project_email:
+rollbar_teams: [airnugget]
+slack_project_channel_name:
+toggl_teams: [airnugget]
