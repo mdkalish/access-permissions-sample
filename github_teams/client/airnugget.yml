@@ -1,6 +1,5 @@
 ---
-members:
-- external/amir.nadal
+members: []
 permission: push
 repos:
 - airnugget
