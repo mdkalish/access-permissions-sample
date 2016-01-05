@@ -5,6 +5,7 @@ github_teams: [access]
 google_groups: [accessguru]
 members:
 - adolf.hillfiger
+- external/ann.kal
 - external/vito.corleone
 - external/ingmar.bergman
 - external/steve.jobs
