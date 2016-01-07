@@ -1,7 +1,9 @@
 ---
 members:
 - al.capone
+- krzysztof.urban
+- marek.lukaszek
 - nick.fianculli
-name:
+name: 
 permission: pull
 repos: []
