@@ -1,0 +1,10 @@
+---
+display_name: `cp _project.yml.sample <project_name>.yml`
+github_teams: []
+google_groups: []
+members: []
+people_project_name:
+project_email:
+rollbar_teams: []
+slack_project_channel_name:
+toggl_teams: []
