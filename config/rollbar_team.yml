@@ -5,7 +5,7 @@ members:
   value_type: array
 name:
   required: true
-  default_value:
+  default_value: "Rollbar Team Name" # Can't be nil
   value_type: string
 projects:
   required: true

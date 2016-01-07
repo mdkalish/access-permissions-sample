@@ -4,7 +4,7 @@ members:
   required: true
   value_type: array
 name:
-  default_value:
+  default_value: "Toggl Team Name" # Can't be nil
   required: true
   value_type: string
 project:
